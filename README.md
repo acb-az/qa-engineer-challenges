@@ -92,7 +92,7 @@ You can submit your solution **in either of the following ways**:
     - Add your solution document and media files.
     - Send us the **URL of your forked repository**.
 2. **Email**
-    - Send your solution document as an attachment to: [**burhan.aghazada@acb.az**](mailto:burhan.aghazada@acb.az)
+    - Send your solution document as an attachment to: [**hr@acb.az**](mailto:hr@acb.az)
     - Include your **full name** in the email subject.
 
 ⚠️ **Deadline:** 24 September 2025, 12:00
