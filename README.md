@@ -72,8 +72,6 @@ Submit **a single document** that contains:
 - ✅ Bug reports found while executing the API
 - ✅ Improvement suggestions
 
-⚠️ **Deadline:** 24 September 2025, 12:00
-
 ---
 
 ## ✅ Evaluation Criteria
@@ -96,6 +94,8 @@ You can submit your solution **in either of the following ways**:
 2. **Email**
     - Send your solution document as an attachment to: [**burhan.aghazada@acb.az**](mailto:burhan.aghazada@acb.az)
     - Include your **full name** in the email subject.
+
+⚠️ **Deadline:** 24 September 2025, 12:00
 
 ---
 
