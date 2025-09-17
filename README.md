@@ -104,6 +104,5 @@ You can submit your solution **in either of the following ways**:
 - There are no “perfect” answers — we want to see **how you think**.
 - Include actual API responses in your execution report (copy JSON or screenshots).
 - Use simple language and clear structure.
-- Don’t spend more than 2 hours; keep it concise.
 - If you’re new to API testing, you can install [Postman](https://www.postman.com/downloads/) (recommended).
 - Use the [API Reference](https://cymi7ri538.apidog.io/) to understand request/response formats and endpoints.
