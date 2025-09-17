@@ -35,10 +35,12 @@ Your job is to **test the system based only on the requirements below**.
 
 The system exposes a **mock Order API** for manual testing on production:
 
-**Production URL:** `https://qa-mock-food-api-production.up.railway.app`  
-**API Reference / Documentation:** [https://cymi7ri538.apidog.io](https://cymi7ri538.apidog.io)
+**Production URL:** `https://qa-mock-food-api-production.up.railway.app`
+
+**API Reference / Documentation:** [https://cymi7ri538.apidog.io](https://cymi7ri538.apidog.io/)
 
 **Endpoints:**
+
 ```
 
 GET /orders
@@ -47,10 +49,10 @@ GET /orders/:id
 PATCH /orders/:id
 DELETE /orders/:id
 PATCH /orders/:id/cancel
-
 ```
 
-> ⚠️ **Note:** The API contains **3 intentional bugs** for you to identify.
+> ⚠️ Note: The API contains 3 intentional bugs for you to identify.
+> 
 
 ### Your Tasks
 
@@ -70,7 +72,7 @@ Submit **a single document** that contains:
 - ✅ Bug reports found while executing the API
 - ✅ Improvement suggestions
 
-**Estimated time:** *5–6 hours*
+⚠️ **Deadline:** 24 September 2025, 12:00
 
 ---
 
@@ -91,9 +93,8 @@ You can submit your solution **in either of the following ways**:
     - Fork this repository.
     - Add your solution document and media files.
     - Send us the **URL of your forked repository**.
-
 2. **Email**
-    - Send your solution document as an attachment to: **contact@acb.az**
+    - Send your solution document as an attachment to: [**magsud.aydayev@acb.az**](mailto:magsud.aydayev@acb.az)
     - Include your **full name** in the email subject.
 
 ---
@@ -105,4 +106,4 @@ You can submit your solution **in either of the following ways**:
 - Use simple language and clear structure.
 - Don’t spend more than 2 hours; keep it concise.
 - If you’re new to API testing, you can install [Postman](https://www.postman.com/downloads/) (recommended).
-- Use the [API Reference](https://cymi7ri538.apidog.io) to understand request/response formats and endpoints.
+- Use the [API Reference](https://cymi7ri538.apidog.io/) to understand request/response formats and endpoints.
