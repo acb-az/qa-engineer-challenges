@@ -27,7 +27,7 @@ Your job is to **test the system based only on the requirements below**.
 1. **Write test cases** for each user story.
     - You can use any format (Excel, Word, Markdown, etc.).
     - Suggested fields: **Test ID, Title, Steps, Expected Result**.
-2. **Suggest 1 improvement** to the system (something not in the requirements).
+2. **Suggest 2-3 improvement** to the system (something not in the requirements).
 
 ---
 
@@ -59,7 +59,7 @@ PATCH /orders/:id/cancel
 1. Perform **manual API requests** using Postman, cURL, or another tool.
 2. Include **actual response** and **status (Pass/Fail)** in your execution report.
 3. Identify and report **any bugs** observed while executing the API.
-4. Suggest **2 improvements** for the API design or behavior.
+4. Suggest **2-3 improvements** for the API design or behavior.
 
 ---
 
